@@ -10,22 +10,14 @@
 <hr />
 
 
-### Technical Stack
+###Technical Stack
 <table>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>Python 3.12.10, SQL, HTML5, CSS3</td>
-  </tr>
-  <tr>
-    <td><strong>Web Dev</strong></td>
-    <td>Flask, Jinja2, Bootstrap 5, jQuery</td>
-  </tr>
-  <tr>
-    <td><strong>Data Science</strong></td>
-    <td>Scikit-learn, NLP, Random Forest Classification</td>
-  </tr>
-  <tr>
-    <td><strong>Tools</strong></td>
-    <td>Git, GitHub, Railway, VS Code</td>
-  </tr>
+<tr>
+<td><strong>Languages</strong></td>
+<td>Python 3.12.10, HTML5, CSS3</td>
+</tr>
+<tr>
+<td><strong>Tools & Deployment</strong></td>
+<td>Git, GitHub, Railway, VS Code</td>
+</tr>
 </table>
