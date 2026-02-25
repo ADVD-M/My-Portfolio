@@ -5,6 +5,23 @@ app = Flask(__name__)
 @app.route('/contact')
 def contact():
     return render_template('contact.html')
+
+@app.route('/publications')
+def publications():
+    publications = [
+        # Add your publications below. Example:
+        # {
+        #     "title": "Paper Title Here",
+        #     "authors": "Advait Mehendale, Co-Author Name",
+        #     "year": "2024",
+        #     "venue": "Conference / Journal Name",
+        #     "type": "Conference Paper",
+        #     "abstract": "A short description or abstract of the publication.",
+        #     "link": "https://link-to-paper.com"
+        # },
+    ]
+    return render_template('publications.html', publications=publications)
+
 @app.route('/')
 def home():
     projects = [
