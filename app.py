@@ -9,16 +9,15 @@ def contact():
 @app.route('/publications')
 def publications():
     publications = [
-        # Add your publications below. Example:
-        # {
-        #     "title": "Paper Title Here",
-        #     "authors": "Advait Mehendale, Co-Author Name",
-        #     "year": "2024",
-        #     "venue": "Conference / Journal Name",
-        #     "type": "Conference Paper",
-        #     "abstract": "A short description or abstract of the publication.",
-        #     "link": "https://link-to-paper.com"
-        # },
+        {
+            "title": "Few-Shot Learning in Vision-Language Models: A Survey",
+            "authors": "Vidisha Deshpande, Advait Mehendale, Gauri Shelke, Rupesh Jaiswal, Opal Raut",
+            "year": "2026",
+            "venue": "CVR 2025",
+            "type": "Conference Paper",
+            "abstract": "This survey traces the evolution of vision-language models from early manual features to modern architectures like CLIP and Flamingo. It evaluates state-of-the-art performance in cross-modal tasks such as VQA and image captioning. Finally, it analyzes key challenges in computational efficiency and explores future directions for few-shot learning deployment.",
+            "link": "https://link.springer.com/chapter/10.1007/978-3-032-14044-9_10"
+        },
     ]
     return render_template('publications.html', publications=publications)
 
@@ -48,6 +47,12 @@ def home():
             "tech": "Python, Flask, HTML, CSS",
             "desc": "A simple yet elegant portfolio website for showcasing my projects.",
             "link": "https://github.com/ADVD-M/My-Portfolio"
+        },
+        {
+            "title": "Student Burnout Prediction App",
+            "tech": "Python, Streamlit, ML",
+            "desc": "Predicts student burnout using a feedback form, along with a built-in chatbot.",
+            "link": "https://github.com/ADVD-M/student-burnout-app"
         }
     ]
 
