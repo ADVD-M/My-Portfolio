@@ -3,7 +3,7 @@
   <p><strong>Built with Python 3.12.10 | Flask | Bootstrap</strong></p>
   
   <p>
-    <a href="https://my-portfolio-production-0c51.up.railway.app/"><strong>Explore the Live Site »</strong></a>
+    <a href="https://advait-mehendale.onrender.com/"><strong>Explore the Live Site »</strong></a>
   </p>
 </div>
 
@@ -18,6 +18,6 @@
 </tr>
 <tr>
 <td><strong>Tools & Deployment</strong></td>
-<td>Git, GitHub, Railway, VS Code</td>
+<td>Git, GitHub, Render, VS Code</td>
 </tr>
 </table>
