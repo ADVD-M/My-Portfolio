@@ -14,7 +14,7 @@
   <p>
     🌐 Explore my portfolio here:
     <br><br>
-    <a href="https://advaitmehendale.netlify.app/">
+    <a href="https://advaitmehendale.netlify.app/" target="blank">
       <strong>Visit Portfolio »</strong>
     </a>
   </p>
