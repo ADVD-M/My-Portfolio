@@ -1,10 +1,16 @@
 const SITE_DATA = {
   "experience": [
     {
+      "name": "Accenture",
+      "role": "Associate Software Engineer Intern",
+      "duration": "May 2026 – July 2026",
+      "description": "Studied client network infrastructure managed by Accenture to better understand real-world network operations. Standardized the process for future firewall and EIP upgrades by writing comprehensive step-by-step guides for the team."
+    },
+    {
       "name": "Omniscient Digital",
       "role": "SEO Marketing Intern",
       "duration": "Nov 2025 – Jan 2026",
-      "description": "Executed a Reddit-based marketing strategy to enhance brand authority and Generative Engine Optimization(GEO).Deployed custom web scrapers and NLP models to automate data collection and tailor brand messaging for niche subreddits."
+      "description": "Executed a Reddit-based marketing strategy to enhance brand authority and Generative Engine Optimization(GEO). Deployed custom web scrapers and NLP models to automate data collection and tailor brand messaging for niche subreddits."
     }
   ],
   "projects": [
