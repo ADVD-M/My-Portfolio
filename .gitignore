@@ -10,3 +10,6 @@ desktop.ini
 
 # Environment files
 .env
+
+# AI agent config
+.agents/

@@ -17,20 +17,26 @@ const SITE_DATA = {
     {
       "title": "Review Sentiment Analysis",
       "tech": "Python, NLP, Scikit-learn",
-      "desc": "Classified user sentiment using NLP pipelines and Fl-score analysis.",
+      "desc": "First ever project. Classified user sentiment using NLP pipelines and Fl-score analysis.",
       "link": "https://github.com/ADVD-M/Review_Sentiment"
     },
     {
       "title": "Investigate App",
-      "tech": "Python, Streamlit, API",
-      "desc": "Built a web-based data investigation tool for real-time filtering.",
+      "tech": "Python, Streamlit, AWS",
+      "desc": "Computes the efficient frontier for NSE assets using Modern Portfolio Theory, letting users optimize allocations by risk and backtest performance against real market data.",
       "link": "https://github.com/ADVD-M/Investigate-App"
     },
     {
-      "title": "Coffee Shop Sales",
+      "title": "Coffee Shop Sales Dashboard",
       "tech": "SQL, Power BI, ETL",
-      "desc": "Analyzed retail transactions to identify growth opportunities.",
+      "desc": "Developed a Power BI dashboard to analyze key business metrics for a coffee shop.",
       "link": "https://github.com/ADVD-M/Coffee-Shop-Sales-Analysis"
+    },
+    {
+      "title": "Student Burnout Prediction App",
+      "tech": "Python, Streamlit, ML",
+      "desc": "Predicts student burnout using a feedback form, along with a built-in chatbot.",
+      "link": "https://github.com/ADVD-M/student-burnout-app"
     },
     {
       "title": "My Portfolio Website",
@@ -39,10 +45,10 @@ const SITE_DATA = {
       "link": "https://github.com/ADVD-M/My-Portfolio"
     },
     {
-      "title": "Student Burnout Prediction App",
-      "tech": "Python, Streamlit, ML",
-      "desc": "Predicts student burnout using a feedback form, along with a built-in chatbot.",
-      "link": "https://github.com/ADVD-M/student-burnout-app"
+      "title": "VibeMatch",
+      "tech": "PySpark, Scikit-learn, Streamlit",
+      "desc": "Collaborative project — content-based music recommendation engine using PySpark TF-IDF/LSH for instant matches, with an SVD fallback for live recommendations.",
+      "link": "https://github.com/ktk811/VibeMatch"
     }
   ],
   "publications": [
