@@ -15,10 +15,10 @@ const SITE_DATA = {
   ],
   "projects": [
     {
-      "title": "Review Sentiment Analysis",
-      "tech": "Python, NLP, Scikit-learn",
-      "desc": "First ever project. Classified user sentiment using NLP pipelines and Fl-score analysis.",
-      "link": "https://github.com/ADVD-M/Review_Sentiment"
+      "title": "WhoTypedThat",
+      "tech": "Python, FastAPI, Keras, scikit-learn, HTML, CSS, JavaScript",
+      "desc": "A real-time keystroke dynamics classifier that identifies who is typing from how they type, not what they type. Built on a self-collected dataset of 1,400 samples from 4 users over 7 days, with 38 timing-based features (hold, flight and digraph timing, typing speed, correction behaviour). Compares a Keras neural network, Random Forest and SVM, with a live classroom demo mode that shows per-user confidence bars.",
+      "link": "https://github.com/ADVD-M/WhoTypedThat"
     },
     {
       "title": "Investigate App",
@@ -49,6 +49,30 @@ const SITE_DATA = {
       "tech": "PySpark, Scikit-learn, Streamlit",
       "desc": "Collaborative project — content-based music recommendation engine using PySpark TF-IDF/LSH for instant matches, with an SVD fallback for live recommendations.",
       "link": "https://github.com/ktk811/VibeMatch"
+    },
+    {
+      "title": "Robustness of HRFs",
+      "tech": "Python, Plotly, Scikit-learn",
+      "desc": "Base model for Research paper studying the Robustness of Honest Random Forests under Covariate Shift",
+      "link": "https://github.com/ADVD-M/Robustness_Of_HRF"
+    },
+    {
+      "title": "XAI for Education: At-Risk Student Prediction",
+      "tech": "Python, scikit-learn, XGBoost, SHAP, pandas, NumPy, Matplotlib, Seaborn, Jupyter",
+      "desc": "Base model for a research paper: explainable, fairness-aware ML pipeline predicting at-risk students using Random Forest, XGBoost, SHAP and group fairness audits.",
+      "link": "https://github.com/RishitMahapatra/XAI_For_Education_Conference"
+    },
+    {
+      "title": "Review Sentiment Analysis",
+      "tech": "Python, NLP, Scikit-learn",
+      "desc": "First ever project. Classified user sentiment using NLP pipelines and Fl-score analysis.",
+      "link": "https://github.com/ADVD-M/Review_Sentiment"
+    },
+    {
+      "title": "NovaSurge: Autonomous Chaos Engineering & Self-Healing Platform",
+      "tech": "Python, FastAPI, Kubernetes (k3s), Prometheus, Loki, PostgreSQL, Redis, Node.js, Vite, Tailwind CSS",
+      "desc": "NovaSurge injects failures into Kubernetes microservices, detects them with ML, and self-heals them while narrating its reasoning live.",
+      "link": "https://github.com/TarunAddala544/NovaSurge/tree/final"
     }
   ],
   "publications": [
