@@ -17,7 +17,7 @@ const SITE_DATA = {
     {
       "title": "WhoTypedThat",
       "tech": "Python, FastAPI, Keras, scikit-learn, HTML, CSS, JavaScript",
-      "desc": "A real-time keystroke dynamics classifier that identifies who is typing from how they type, not what they type. Built on a self-collected dataset of 1,400 samples from 4 users over 7 days, with 38 timing-based features (hold, flight and digraph timing, typing speed, correction behaviour). Compares a Keras neural network, Random Forest and SVM, with a live classroom demo mode that shows per-user confidence bars.",
+      "desc": "Real-time keystroke dynamics classifier identifying users from 38 timing features, comparing Keras, Random Forest, and SVM models with a live demo.",
       "link": "https://github.com/ADVD-M/WhoTypedThat"
     },
     {
